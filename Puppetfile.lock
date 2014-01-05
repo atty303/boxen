@@ -44,6 +44,16 @@ GITHUBTARBALL
     hub (1.0.3)
 
 GITHUBTARBALL
+  remote: boxen/puppet-intellij
+  specs:
+    intellij (1.4.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.1.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.2)
@@ -72,6 +82,16 @@ GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
     ruby (6.3.4)
+
+GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.6)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sourcetree
+  specs:
+    sourcetree (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -104,12 +124,16 @@ DEPENDENCIES
   homebrew (= 1.4.1)
   hub (= 1.0.3)
   inifile (= 1.0.0)
+  intellij (= 1.4.0)
+  java (= 1.1.2)
   nginx (= 1.4.2)
   nodejs (= 3.2.9)
   openssl (= 1.0.0)
   quicksilver (= 1.1.0)
   repository (= 2.2.0)
   ruby (= 6.3.4)
+  skype (= 1.0.6)
+  sourcetree (= 1.0.0)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
   xquartz (= 1.1.0)

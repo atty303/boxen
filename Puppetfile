@@ -39,3 +39,9 @@ github "xquartz",    "1.1.0"
 github "quicksilver","1.1.0"
 github "chrome",     "1.1.1"
 github "dropbox",    "1.1.2"
+github "skype",      "1.0.6"
+github "java",       "1.1.2"
+
+github "intellij",   "1.4.0"
+github "sourcetree", "1.0.0"
+
