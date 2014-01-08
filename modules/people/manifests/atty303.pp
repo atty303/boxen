@@ -35,7 +35,7 @@ class people::atty303 {
 
   class { 'intellij':
     edition => 'ultimate',
-    version => '12.1.6'
+    version => '13.0.1'
   }
   include sourcetree
 
