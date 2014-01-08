@@ -3,7 +3,7 @@ class people::atty303 {
 #  include quicksilver
   package { 'Quicksilver':
     provider => 'appdmg',
-    source   => 'http://cdn.qsapp.com/com.blacktree.Quicksilver__16390.dmg',
+    source   => 'http://cdn.qsapp.com/com.blacktree.Quicksilver__16391.dmg',
   }
 
   include chrome
