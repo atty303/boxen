@@ -49,5 +49,12 @@ class people::atty303 {
   }
 
   include git
+
+  # homebrew
+  package {
+    [
+      'scala',
+    ]:
+  }
 }
 
